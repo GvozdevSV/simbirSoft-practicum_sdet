@@ -1,0 +1,23 @@
+{
+  "uuid": "6e24b634-ec20-4103-b723-62e005fe5297",
+  "name": "simbirSoft-practicum_sdet",
+  "children": [
+    "20883b86-292f-4252-b24c-3b573e631f17"
+  ],
+  "befores": [],
+  "afters": [
+    {
+      "name": "clearCookiesAndLocalStorage",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1692822810032,
+      "stop": 1692822810074
+    }
+  ],
+  "start": 1692822766771,
+  "stop": 1692822810075
+}

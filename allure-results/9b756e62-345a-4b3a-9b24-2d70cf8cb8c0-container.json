@@ -1,0 +1,23 @@
+{
+  "uuid": "9b756e62-345a-4b3a-9b24-2d70cf8cb8c0",
+  "name": "Default Suite",
+  "children": [
+    "c62d07db-bba3-4798-abb8-34df4f8c682c"
+  ],
+  "befores": [],
+  "afters": [
+    {
+      "name": "close",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1692826129827,
+      "stop": 1692826130069
+    }
+  ],
+  "start": 1692826088626,
+  "stop": 1692826130070
+}

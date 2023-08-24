@@ -1,0 +1,61 @@
+{
+  "uuid": "d95c0930-8b6a-4800-965c-5129d160b56d",
+  "historyId": "49cb703986344e00b57610dc3a31643e",
+  "fullName": "demoqa.FillingOutRegistrationFormTest.registrationIsSuccessful",
+  "labels": [
+    {
+      "name": "package",
+      "value": "demoqa.FillingOutRegistrationFormTest"
+    },
+    {
+      "name": "testClass",
+      "value": "demoqa.FillingOutRegistrationFormTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "registrationIsSuccessful"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "simbirSoft-practicum_sdet"
+    },
+    {
+      "name": "subSuite",
+      "value": "demoqa.FillingOutRegistrationFormTest"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-7B7HF8S"
+    },
+    {
+      "name": "thread",
+      "value": "13404@DESKTOP-7B7HF8S.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "registrationIsSuccessful",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1692895541174,
+  "stop": 1692895581351
+}

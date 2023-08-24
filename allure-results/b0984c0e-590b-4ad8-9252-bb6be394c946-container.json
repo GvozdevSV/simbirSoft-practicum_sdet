@@ -1,0 +1,12 @@
+{
+  "uuid": "b0984c0e-590b-4ad8-9252-bb6be394c946",
+  "name": "demoqa.FillingOutRegistrationFormTest",
+  "children": [
+    "f5423cf1-0f6e-4644-8171-96a46b8ecf93",
+    "eb16c763-413e-466a-b435-a343b74e0a40"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1692824098865,
+  "stop": 1692824116140
+}
