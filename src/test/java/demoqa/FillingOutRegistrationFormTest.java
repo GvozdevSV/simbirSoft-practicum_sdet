@@ -27,14 +27,6 @@ public class FillingOutRegistrationFormTest extends BaseTest {
 
         popUpWindowPage
                 .checkHead()
-                .checkTableBody("Иван Иванов")
-                .checkTableBody("ivan@gmail.com")
-                .checkTableBody("Male")
-                .checkTableBody("9876543210")
-                .checkTableBody("03 May,1992")
-                .checkTableBody("Hindi")
-                .checkTableBody("image.jpg")
-                .checkTableBody("Street")
-                .checkTableBody("NCR Delhi");
+                .checkTableElements();
     }
 }
